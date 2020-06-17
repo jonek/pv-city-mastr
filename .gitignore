@@ -1,1 +1,7 @@
 node_modules/
+data/MaStRDatenMigration1/
+data/MaStRDatenMigration2/
+data/DatenAb310119/
+data/*.zip
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
