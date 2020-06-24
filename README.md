@@ -15,7 +15,7 @@ You can reproduce the following data processing steps on your computer:
    - Migration parts 1 and 2 (data before Jan 2019): [notebooks/convert-MaStR-Migration-to-CSV.ipynb](notebooks/convert-MaStR-Migration-to-CSV.ipynb)
    - data since Jan 2019: [notebooks/convert-MaStR-since20190131-to-CSV.ipynb](notebooks/convert-MaStR-since20190131-to-CSV.ipynb)
 3. Extract data for a given city
-   - Migration parts 1 and 2: (TODO)
+   - Migration parts 1 and 2: [notebooks/extract-city-from-MaStR-before20190201.ipynb](notebooks/extract-city-from-MaStR-before20190201.ipynb)
    - data since Jan 2019: [notebooks/extract-city-from-MaStR-since20190131.ipynb](notebooks/extract-city-from-MaStR-since20190131.ipynb)
 4. Combine data partitions
    - Migration part 1
